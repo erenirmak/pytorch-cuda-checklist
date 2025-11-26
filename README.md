@@ -40,7 +40,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/erenirmak/pytorch-cuda-checklist.git
-cd pytorch-cuda-check
+cd pytorch-cuda-checklist
 ```
 
 Install requirements:
